@@ -1,12 +1,43 @@
-# React + Vite
+# 📝 Task Manager App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+a clean and modern task manager built with **react**, **vite**, and **tailwind css**.  
+lets users add, complete, and delete tasks with animated icons and smooth ui transitions.  
 
-Currently, two official plugins are available:
+designed as a resume project to show front-end skills, ui design, and state management in react.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+[🔗 live preview](#)  
+_(add your vercel/netlify link here after deployment)_
+
+---
+
+## 🔧 tech stack
+
+- ⚛️ react
+- ⚡ vite
+- 🎨 tailwind css
+- 🎯 react-icons
+
+---
+
+## 🎯 features
+
+- ➕ add new tasks
+- ✅ mark tasks as done with a single click
+- ❌ delete tasks with animated trash icon
+- 🧠 smooth hover, scale, and color transitions
+- 💅 responsive layout and clean design
+- ⚛️ written with modern react hooks and tailwind utility classes
+
+---
+
+## 📁 folder structure
+
+```bash
+src/
+├── App.jsx          # main app component
+├── main.jsx         # entry point
+├── app.css        # tailwind base styles
