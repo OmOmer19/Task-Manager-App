@@ -9,9 +9,6 @@ designed as a resume project to show front-end skills, ui design, and state mana
 
 ## 🚀 demo
 
-[🔗 live preview](#)  
-_(add your vercel/netlify link here after deployment)_
-
 ---
 
 ## 🔧 tech stack
