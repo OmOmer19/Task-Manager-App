@@ -8,6 +8,7 @@ designed as a resume project to show front-end skills, ui design, and state mana
 ---
 
 ## 🚀 demo
+[🔗 live demo](https://task-manager-app-woad-three.vercel.app/)
 
 ---
 
