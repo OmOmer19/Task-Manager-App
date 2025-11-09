@@ -1,4 +1,7 @@
 # 📝 Task Manager App
+![React](https://img.shields.io/badge/React-17.0.2-blue)
+![Vite](https://img.shields.io/badge/Vite-4.0.0-green)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-3.3.2-blueviolet)
 
 a clean and modern task manager built with **react**, **vite**, and **tailwind css**.  
 lets users add, complete, and delete tasks with animated icons and smooth ui transitions.  
